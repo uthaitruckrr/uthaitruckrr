@@ -1,7 +1,7 @@
 <h1 align="center">Nice to have you here on my profile</h1>
 
 <h3 align="center">I'm a junior web developer specializing in the MERN stack </h3> <br>
-<img align="left"alt="GIF" src="[https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wingstechsolutions.com%2Fblog%2Ffeaturing-everything-about-full-stack-development%2F&psig=AOvVaw2qw-RKiI12cxJol6ZPtqe4&ust=1697030985228000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCLjwuZvL64EDFQAAAAAdAAAAABAP)" width="400"/>
+<img align="left"alt="GIF" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="400"/>
 
 🔭 Hi, I’m @uthai backend developer in Truckrr info
 
